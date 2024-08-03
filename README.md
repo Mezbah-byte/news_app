@@ -13,9 +13,10 @@ A Flutter news app built with GetX and Clean Architecture. This app fetches and 
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Mezbah-byte/news_app/blob/main/screenshot/0.jpeg?raw=true)
-![App Screenshot](https://github.com/Mezbah-byte/news_app/blob/main/screenshot/2.jpeg?raw=true)
-![App Screenshot](https://github.com/Mezbah-byte/news_app/blob/main/screenshot/1.jpeg?raw=true)
+<img src="https://github.com/Mezbah-byte/news_app/blob/main/screenshot/0.jpeg?raw=true" alt="App Screenshot 1" width="300" height="600">
+<img src="https://github.com/Mezbah-byte/news_app/blob/main/screenshot/2.jpeg?raw=true" alt="App Screenshot 2" width="300" height="600">
+<img src="https://github.com/Mezbah-byte/news_app/blob/main/screenshot/1.jpeg?raw=true" alt="App Screenshot 3" width="300" height="600">
+
 
 ## Architecture & Folder Structure
 

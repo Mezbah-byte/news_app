@@ -54,3 +54,32 @@ The `features` layer is organized by specific features of the application. Each 
 - **Data Layer**: Handles data fetching, mapping, and repository implementations.
 - **Domain Layer**: Contains business entities and use cases. It defines the core business logic and rules.
 - **Presentation Layer**: Includes UI components, pages, and controllers for managing state and presentation logic.
+
+
+## Technologies & Dependencies
+
+The project uses the following technologies and dependencies:
+
+- **Flutter**: The framework used for building the cross-platform mobile application.
+- **GetX**: A state management solution that also provides routing and dependency injection.
+- **Dio**: A powerful HTTP client for Dart, used for making network requests.
+- **Equatable**: Helps in making Dart objects comparable without implementing a lot of boilerplate code.
+- **Dartz**: A functional programming library for Dart, providing tools like `Either` and `Option`.
+- **connectivity_plus**: A plugin to check the network status of the device.
+- **intl**: A library for internationalization and localization, used here mainly for date formatting.
+- **http**: Another HTTP client for making network requests.
+- **url_launcher**: A plugin to launch URLs in the default browser or apps.
+- **lottie**: A library for rendering animations from Lottie files.
+
+The dependencies are specified in the `pubspec.yaml` file and can be installed using Flutter's package manager.
+
+## Installation & Usage
+
+To run the application locally, follow these steps:
+
+1. **Clone the Repository**  
+   Clone the repository to your local machine using the following command:
+
+   ```bash
+   git clone https://github.com/Mezbah-byte/news-app.git
+   cd news-app

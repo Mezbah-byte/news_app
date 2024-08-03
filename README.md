@@ -65,7 +65,6 @@ The project uses the following technologies and dependencies:
 
 - **Flutter**: The framework used for building the cross-platform mobile application.
 - **GetX**: A state management solution that also provides routing and dependency injection.
-- **Dio**: A powerful HTTP client for Dart, used for making network requests.
 - **Equatable**: Helps in making Dart objects comparable without implementing a lot of boilerplate code.
 - **Dartz**: A functional programming library for Dart, providing tools like `Either` and `Option`.
 - **connectivity_plus**: A plugin to check the network status of the device.

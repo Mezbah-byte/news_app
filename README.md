@@ -81,5 +81,23 @@ To run the application locally, follow these steps:
    Clone the repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/Mezbah-byte/news-app.git
+   git clone https://github.com/Mezbah-byte/news_app.git
    cd news-app
+
+2. **Install Dependencies**  
+   Navigate to the project directory and run the following command to install the necessary dependencies:
+
+   ```bash
+   flutter pub get
+
+3. **Run the Application**  
+   You can start the application on an emulator or a physical device by running:
+
+   ```bash
+   flutter run
+
+4. **Build for Production**  
+   To build the app for production, you can use the following command:
+
+   ```bash
+   flutter build apk
